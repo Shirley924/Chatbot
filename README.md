@@ -25,6 +25,7 @@ Linebot會跳出功能介紹
 
 接著會跳出豹的品種供選擇，
 現在按下[introduction]按鍵，將會出現：
+
 <img src="https://i.imgur.com/h3YE6cA.jpg" width="500">
 
 按下[video]按鍵，將會跳出相關影片：
