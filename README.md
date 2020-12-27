@@ -43,6 +43,8 @@ Linebot會跳出功能介紹
 
 
 ## FSM
+
+<img src="https://i.imgur.com/6cjryCn.png">
 ```graphviz
 digraph Linebot{
     //rankdir=LR;
