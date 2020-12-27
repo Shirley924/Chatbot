@@ -3,7 +3,7 @@
 ### 輸入"start/開始"指令
 Linebot會跳出功能介紹
 
-![](https://i.imgur.com/AwesfTH.jpg)
+![](https://i.imgur.com/AwesfTH.jpg width="300")
 
 
 ### 按下[intro.]按鈕
