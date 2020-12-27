@@ -527,6 +527,17 @@ if (strtolower($message['text']) == "start" || $message['text'] == "開始") {
         )
         
     ));
+}else if (strtolower($message['text']) == "fsm"|| strtolower($message['text']) == "狀態圖") {
+  $client->replyMessage(array(
+      'replyToken' => $event['replyToken'],
+      'messages' => array(
+          array(
+            'type' => 'image', //訊息類型 (圖片)
+            'originalContentUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2Fthumbnails%2FFSM.png?1609071519704', 
+            'previewImageUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2Fthumbnails%2FFSM.png?1609071519704'
+          ),
+      )
+  ));
 }else if (strtolower($message['text']) == "search" || strtolower($message['text']) == "搜尋") {
   $client->replyMessage(array(
       'replyToken' => $event['replyToken'],
@@ -1173,7 +1184,7 @@ if (strtolower($message['text']) == "start" || $message['text'] == "開始") {
       'messages' => array(
           array(
               'type' => 'video', //訊息類型 (文字)
-              'originalContentUrl' => 'https://www.youtube.com/watch?v=8IWcbIieR2E', //回復影片
+              'originalContentUrl' => 'https://www.youtube.com/watch?v=ly0pt4KBNrs', //回復影片
               'previewImageUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2Fthumbnails%2F%E7%9A%87%E5%B8%9D%E4%BC%81%E9%B5%9D%E5%BD%B1.png?1608859358683' //回復的預覽圖片
           ),
       )
