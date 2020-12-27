@@ -886,7 +886,7 @@ if (strtolower($message['text']) == "start" || $message['text'] == "開始") {
       'messages' => array(
           array(
               'type' => 'video', //訊息類型 (文字)
-              'originalContentUrl' => 'https://www.youtube.com/watch?v=bHy7cxxuy08', //回復影片
+              'originalContentUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2F%E7%BE%8E%E6%B4%B2%E8%B1%B9.mp4?v=1609076109328', //回復影片
               'previewImageUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2Fthumbnails%2F%E7%BE%8E%E6%B4%B2%E8%B1%B9%E5%BD%B1.png?1608854888575' //回復的預覽圖片
           ),
       )
@@ -897,7 +897,7 @@ if (strtolower($message['text']) == "start" || $message['text'] == "開始") {
       'messages' => array(
           array(
               'type' => 'video', //訊息類型 (文字)
-              'originalContentUrl' => 'https://www.youtube.com/watch?v=ItcmYlFn41E', //回復影片
+              'originalContentUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2F%E8%8A%B1%E8%B1%B9.mp4?v=1609076121325', //回復影片
               'previewImageUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2Fthumbnails%2F%E8%8A%B1%E8%B1%B9%E5%BD%B1.png?1608854882117' //回復的預覽圖片
           ),
       )
@@ -908,7 +908,7 @@ if (strtolower($message['text']) == "start" || $message['text'] == "開始") {
       'messages' => array(
           array(
               'type' => 'video', //訊息類型 (文字)
-              'originalContentUrl' => 'https://www.youtube.com/watch?v=7htiNhweFZQ', //回復影片
+              'originalContentUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2F%E5%8F%B0%E7%81%A3%E9%9B%B2%E8%B1%B9.mp4?v=1609075986042', //回復影片
               'previewImageUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2Fthumbnails%2F%E9%9B%B2%E8%B1%B9%E5%BD%B1.png?1608854869727' //回復的預覽圖片
           ),
       )
@@ -919,7 +919,7 @@ if (strtolower($message['text']) == "start" || $message['text'] == "開始") {
       'messages' => array(
           array(
               'type' => 'video', //訊息類型 (文字)
-              'originalContentUrl' => 'https://www.youtube.com/watch?v=Qx8NsouFk84', //回復影片
+              'originalContentUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2F%E7%8D%B5%E8%B1%B9.mp4?v=1609076093098', //回復影片
               'previewImageUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2Fthumbnails%2F%E7%8D%B5%E8%B1%B9%E5%BD%B1.png?1608854880949' //回復的預覽圖片
           ),
       )
@@ -1184,7 +1184,7 @@ if (strtolower($message['text']) == "start" || $message['text'] == "開始") {
       'messages' => array(
           array(
               'type' => 'video', //訊息類型 (文字)
-              'originalContentUrl' => 'https://www.youtube.com/watch?v=ly0pt4KBNrs', //回復影片
+              'originalContentUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2FBaby%20Emperor%20Penguins%20Emerge%20from%20Their%20Shells%20_%20Nature%20on%20PBS.mp4?v=1609075325395', //回復影片
               'previewImageUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2Fthumbnails%2F%E7%9A%87%E5%B8%9D%E4%BC%81%E9%B5%9D%E5%BD%B1.png?1608859358683' //回復的預覽圖片
           ),
       )
@@ -1195,7 +1195,7 @@ if (strtolower($message['text']) == "start" || $message['text'] == "開始") {
       'messages' => array(
           array(
               'type' => 'video', //訊息類型 (文字)
-              'originalContentUrl' => 'https://www.youtube.com/watch?v=ItcmYlFn41E', //回復影片
+              'originalContentUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2FKing%20Penguins.mp4?v=1609075911399', //回復影片
               'previewImageUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2Fthumbnails%2F%E5%9C%8B%E7%8E%8B%E5%BD%B1.png?1608859353049' //回復的預覽圖片
           ),
       )
@@ -1206,7 +1206,7 @@ if (strtolower($message['text']) == "start" || $message['text'] == "開始") {
       'messages' => array(
           array(
               'type' => 'video', //訊息類型 (文字)
-              'originalContentUrl' => 'https://www.youtube.com/watch?v=7htiNhweFZQ', //回復影片
+              'originalContentUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2Fvideoplayback.mp4?v=1609075771097', //回復影片
               'previewImageUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2Fthumbnails%2F%E9%BA%A5%E5%93%B2%E5%80%AB%E5%BD%B1.png?1608859364914' //回復的預覽圖片
           ),
       )
@@ -1339,21 +1339,21 @@ if (strtolower($message['text']) == "start" || $message['text'] == "開始") {
 }
 
 
-// else if (strtolower($message['text']) == "查看" || strtolower($message['text']) == "list")  {
-//     $client->replyMessage(array(
-//         'replyToken' => $event['replyToken'],
-//         'messages' => array(
-//             array(
-//                 // "type" => "flex",
-//                 // "altText" => "Input your income and expense!",
-//                 // "contents" => #code
-//                 'type' => 'video', //訊息類型 (影片)
-//                 'originalContentUrl' => 'https://api.reh.tw/line/bot/example/assets/videos/example.mp4', //回復影片
-//                 'previewImageUrl' => 'https://api.reh.tw/line/bot/example/assets/images/example.jpg' //回復的預覽圖片
+else if (strtolower($message['text']) == "查看" || strtolower($message['text']) == "list")  {
+    $client->replyMessage(array(
+        'replyToken' => $event['replyToken'],
+        'messages' => array(
+            array(
+                // "type" => "flex",
+                // "altText" => "Input your income and expense!",
+                // "contents" => #code
+                'type' => 'video', //訊息類型 (影片)
+                'originalContentUrl' => 'https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2FBaby%20Emperor%20Penguins%20Emerge%20from%20Their%20Shells%20_%20Nature%20on%20PBS.mp4?v=1609075325395', //回復影片
+                'previewImageUrl' => 'https://api.reh.tw/line/bot/example/assets/images/example.jpg' //回復的預覽圖片
                 
-//             )
+            )
             
-//         )
-//     ));
+        )
+    ));
    
-// }
+}
