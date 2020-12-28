@@ -44,4 +44,4 @@ Linebot會跳出功能介紹
 
 ## FSM
 
-<img src="https://i.imgur.com/6cjryCn.png">
+<img src="https://cdn.glitch.com/36287cff-58da-4be9-bbef-148c64c77bce%2F%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202020-12-28%20103517.png?v=1609122966288">
