@@ -31,8 +31,6 @@ Linebot會跳出功能介紹
 按下[video]按鍵，將會跳出相關影片：
 
 <img src="https://i.imgur.com/AhsRvLi.jpg" width="500">
-> 在搜尋方面我沒有做爬蟲功能，因此資料是寫死的。除了「豹」之外，還可以查詢「企鵝」
-
 
 ### 按下[others]按鈕
 呈現各處組織的logo&連結
